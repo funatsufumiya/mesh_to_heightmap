@@ -1,0 +1,5 @@
+numpy
+open3d
+matplotlib
+numpy-stl
+numba
